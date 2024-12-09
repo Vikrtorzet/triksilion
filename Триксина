@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Медицинский центр</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать в наш медицинский центр</h1>
+        <nav>
+            <ul>
+                <li><a href="#services">Платные услуги</a></li>
+                <li><a href="#doctors">Врачи</a></li>
+                <li><a href="#contacts">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="services">
+            <h2>Наши услуги</h2>
+            <p>Мы предлагаем широкий спектр платных медицинских услуг. Запишитесь на консультацию!</p>
+        </section>
+        
+        <section id="doctors">
+            <h2>Наши врачи</h2>
+            <p>Опытные специалисты готовы помочь вам!</p>
+        </section>
+
+        <section id="contacts">
+            <h2>Контакты</h2>
+            <p>Телефон: +7 (000) 000-00-00</p>
+            <p>Email: info@medicalcenter.ru</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Медицинский центр. Все права защищены.</p>
+    </footer>
+</body>
+</html>
